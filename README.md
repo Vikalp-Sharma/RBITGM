@@ -61,7 +61,7 @@ The whole thing ships as a **one-command installer** (`rbitgm.sh`) that builds a
 Requires a Debian/Ubuntu-based Linux system (built and tested for Raspberry Pi OS). The installer handles everything else — system packages, the Python virtual environment, and the build.
 
 ```bash
-git clone <this-repo-url> rbitgm
+git clone https://github.com/Vikalp-Sharma/RBITGM rbitgm
 cd rbitgm
 chmod +x rbitgm.sh
 sudo ./rbitgm.sh
